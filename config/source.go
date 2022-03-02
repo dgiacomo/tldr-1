@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	giturl = "https://github.com/tldr-pages/tldr.git"
+	giturl = "https://github.com/dgiacomo/tldr/tldr.git"
 )
 
 var (
